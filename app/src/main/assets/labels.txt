@@ -1,0 +1,6 @@
+Aluminio
+Organica
+Otro
+Papel
+Plastico
+Vidrio
